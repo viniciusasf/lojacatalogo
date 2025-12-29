@@ -49,7 +49,7 @@
             <div class="col-md-6 mb-3">
                 <label for="nivel" class="form-label">Nível de Acesso</label>
                 <select name="nivel" id="nivel" class="form-select">
-                    <option value="cliente">Cliente</option>
+                   <!--<option value="cliente">Cliente</option> Usar futuramente em cadatro de clientes --> 
                     <option value="admin">Administrador</option>
                 </select>
             </div>
